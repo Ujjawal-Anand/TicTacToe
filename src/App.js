@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <Game />
+      <div>Built By Ujjawal Anand</div>
     </div>
   );
 }
